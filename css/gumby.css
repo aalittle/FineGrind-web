@@ -3820,7 +3820,7 @@ img {
 .btn.success:active, .skiplink.success:active {
   background: #44951e;
 }
-.btn.metro, .metro .btn, .metro .skiplink, .btn.metro:hover, .metro .btn:hover, .metro .skiplink:hover, .skiplink.metro:hover, .btn.metro:active, .metro .btn:active, .metro .skiplink:active, .skiplink.metro:active, .skiplink.metro {
+.btn.metro, .metro .btn, .metro .skiplink, .btn.metro:hover, .skiplink.metro:hover, .btn.metro:active, .skiplink.metro:active, .skiplink.metro {
   -webkit-border-radius: 0;
   -moz-border-radius: 0;
   -ms-border-radius: 0;
@@ -3834,7 +3834,7 @@ img {
   -o-border-radius: 4px;
   border-radius: 4px;
 }
-.btn.pretty, .pretty .btn, .pretty .skiplink, .btn.pretty:hover, .pretty .btn:hover, .pretty .skiplink:hover, .skiplink.pretty:hover, .btn.pretty:active, .pretty .btn:active, .pretty .skiplink:active, .skiplink.pretty:active, .skiplink.pretty {
+.btn.pretty, .pretty .btn, .pretty .skiplink, .btn.pretty:hover, .skiplink.pretty:hover, .btn.pretty:active, .skiplink.pretty:active, .skiplink.pretty {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
@@ -8949,7 +8949,7 @@ input::-moz-focus-inner {
 .logo {
   word-break: normal;
   font-weight: 900;
-  font-size: 70px;
+  font-size: 56px;
   color: #fff;
 }
 .logo span {
