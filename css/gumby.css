@@ -9346,7 +9346,7 @@ input::-moz-focus-inner {
 }
 .signup-form2 .btn-side {
   width: 30%;
-  background-color: transparent;
+  background-color: #3869c4;;
   border: 5px solid #fff;
 }
 .signup-form2 .btn-side:hover {
@@ -9354,7 +9354,7 @@ input::-moz-focus-inner {
   background-color: #c43869;
 }
 .signup-form2 .btn-side:active {
-  border-color: #a8305a;
+  border-color: #c43869;
   background-color: #a8305a;
 }
 @media screen and (max-width: 540px) {

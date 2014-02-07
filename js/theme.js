@@ -148,6 +148,6 @@ $(function() {
 
 
 	//initialise scroll animations
-	ScrollAnimations.init();
+	//ScrollAnimations.init(); - this was causing the sign up input and button to dissapear after page loads
 
 });
