@@ -9413,10 +9413,18 @@ input::-moz-focus-inner {
 .footer-info {
   padding-bottom: 50px;
 }
-
+.footer-support {
+   color: white;
+    margin-top: 5px;
+    font-size: 10px;
+}
+.footer-support:hover p{
+   color: #c43869;
+}
 .footer-copyright {
   font-weight: 300;
   margin-bottom: 5px;
+
   color: white;
 }
 .footer-copyright strong {
@@ -9426,8 +9434,14 @@ input::-moz-focus-inner {
   .footer-copyright {
     text-align: center;
   }
+    .footer-support {
+ text-align: center;
+        color: whitec;
+    }
 }
-
+footer-support-link:hover {
+ color:black;   
+}
 .footer-rights {
   margin: 0;
   font-size: 14px;
