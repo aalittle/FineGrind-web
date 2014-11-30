@@ -8931,7 +8931,6 @@ input::-moz-focus-inner {
 * Site Header
 *****************************************************/
 .site-header {
-  background-color: #c43869;
   /** 
   * Add your custom background image for a cool parallax effect.
   * background-image:url('img/your-header-background-image.png')
@@ -8940,10 +8939,10 @@ input::-moz-focus-inner {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-color: #3869c4;
+  background-color: #C82506;
   width: 100%;
-  color: #fff;
-  border-top: 5px solid #38C493;
+  color: #F5F5F5;
+  border-top: 5px solid #28170D;
 }
 
 .logo {
@@ -9136,8 +9135,8 @@ input::-moz-focus-inner {
   }
 }
 .features-item:hover .features-circle {
-  background-color: #b83563;
-  border-color: #cc4e7a;
+  background-color: #C82506;
+  border-color: #9C2506;
   border-width: 8px;
 }
 .features-item:hover .features-circle-icon {
@@ -9171,7 +9170,7 @@ input::-moz-focus-inner {
   display: block;
   position: relative;
   border-radius: 50%;
-  background-color: #c43869;
+  background-color: #C82506;
   width: 180px;
   height: 180px;
   margin: 0 auto 30px auto;
@@ -9313,7 +9312,8 @@ input::-moz-focus-inner {
 * Sign-Up Section
 *****************************************************/
 .section-signup {
-  background-color: #3869c4;
+	
+  background-color: #C82506;
   text-align: center;
 }
 
@@ -9337,7 +9337,7 @@ input::-moz-focus-inner {
   margin-right: 3%;
 }
 .signup-form2 .input-side:focus {
-  border-color: #5680cf;
+  border-color: #9C2506;
 }
 @media screen and (max-width: 540px) {
   .signup-form2 .input-side {
@@ -9346,16 +9346,16 @@ input::-moz-focus-inner {
 }
 .signup-form2 .btn-side {
   width: 30%;
-  background-color: #3869c4;;
+  background-color: #9C2506;
   border: 5px solid #fff;
 }
 .signup-form2 .btn-side:hover {
-  border-color: #c43869;
-  background-color: #c43869;
+  border-color: #9C2506;
+  background-color: #C82506;
 }
 .signup-form2 .btn-side:active {
-  border-color: #c43869;
-  background-color: #a8305a;
+  border-color: #C82506;
+  background-color: #9C2506;
 }
 @media screen and (max-width: 540px) {
   .signup-form2 .btn-side {
@@ -9403,7 +9403,7 @@ input::-moz-focus-inner {
 * Site Footer 
 *****************************************************/
 .site-footer {
-  background-color: #c49338;
+  background-color: #28170D;
   padding: 50px 0;
 }
 .site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6 {
@@ -9419,7 +9419,7 @@ input::-moz-focus-inner {
     font-size: 10px;
 }
 .footer-support:hover p{
-   color: #c43869;
+   color: #C82506;
 }
 .footer-copyright {
   font-weight: 300;
@@ -9492,7 +9492,7 @@ footer-support-link:hover {
 }
 
 .social-link {
-  color: #a47b2f;
+  color: #C82506;
   font-size: 45px;
   -webkit-transition: color 0.3s ease;
   -moz-transition: color 0.3s ease;
@@ -9500,11 +9500,11 @@ footer-support-link:hover {
   transition: color 0.3s ease;
 }
 .social-link:hover {
-  color: #9c2d54;
+  color: #9C2506;
 }
 
 .social-engagement-wrapper {
-  border-top: 1px solid #cea252;
+  border-top: 1px solid #28170D;
 }
 
 .footer-widget {
