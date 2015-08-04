@@ -8939,10 +8939,10 @@ input::-moz-focus-inner {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-color: #C82506;
+  background-color: #665658;
   width: 100%;
   color: #F5F5F5;
-  border-top: 5px solid #28170D;
+  border-top: 5px solid #B2A0A2;
 }
 
 .logo {
@@ -9135,8 +9135,8 @@ input::-moz-focus-inner {
   }
 }
 .features-item:hover .features-circle {
-  background-color: #C82506;
-  border-color: #9C2506;
+  background-color: #B2A0A2;
+  border-color: #665658;
   border-width: 8px;
 }
 .features-item:hover .features-circle-icon {
@@ -9170,11 +9170,11 @@ input::-moz-focus-inner {
   display: block;
   position: relative;
   border-radius: 50%;
-  background-color: #C82506;
+  background-color: #665658;
   width: 180px;
   height: 180px;
   margin: 0 auto 30px auto;
-  border: 6px solid rgba(144, 41, 77, 0.3);
+  border: 6px solid rgba(178, 160, 162, 0.3);
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
@@ -9284,6 +9284,10 @@ input::-moz-focus-inner {
   }
 }
 
+.appstore-logo {
+	margin-top: 50px;
+}
+
 .testimonial-details {
   width: 70%;
   padding-left: 25px;
@@ -9313,7 +9317,7 @@ input::-moz-focus-inner {
 *****************************************************/
 .section-signup {
 	
-  background-color: #C82506;
+  background-color: #665658;
   text-align: center;
 }
 
@@ -9337,7 +9341,7 @@ input::-moz-focus-inner {
   margin-right: 3%;
 }
 .signup-form2 .input-side:focus {
-  border-color: #9C2506;
+  border-color: #B2A0A2;
 }
 @media screen and (max-width: 540px) {
   .signup-form2 .input-side {
@@ -9346,16 +9350,16 @@ input::-moz-focus-inner {
 }
 .signup-form2 .btn-side {
   width: 30%;
-  background-color: #9C2506;
+  background-color: #B2A0A2;
   border: 5px solid #fff;
 }
 .signup-form2 .btn-side:hover {
-  border-color: #9C2506;
-  background-color: #C82506;
+  border-color: #D8CBCD;
+  background-color: #665658;
 }
 .signup-form2 .btn-side:active {
-  border-color: #C82506;
-  background-color: #9C2506;
+  border-color: #D8CBCD;
+  background-color: #B2A0A2;
 }
 @media screen and (max-width: 540px) {
   .signup-form2 .btn-side {
@@ -9372,7 +9376,7 @@ input::-moz-focus-inner {
   margin-right: 3%;
 }
 .signup-form .input-side:focus {
-  border-color: #5680cf;
+  border-color: #B2A0A2;
 }
 @media screen and (max-width: 540px) {
   .signup-form .input-side {
@@ -9385,12 +9389,12 @@ input::-moz-focus-inner {
   border: 5px solid #fff;
 }
 .signup-form .btn-side:hover {
-  border-color: #c43869;
+  border-color: #B2A0A2;
   background-color: #c43869;
 }
 .signup-form .btn-side:active {
-  border-color: #a8305a;
-  background-color: #a8305a;
+  border-color: #B2A0A2;
+  background-color: #B2A0A2;
 }
 @media screen and (max-width: 540px) {
   .signup-form .btn-side {
@@ -9403,11 +9407,11 @@ input::-moz-focus-inner {
 * Site Footer 
 *****************************************************/
 .site-footer {
-  background-color: #28170D;
+  background-color: #B2A0A2;
   padding: 50px 0;
 }
 .site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6 {
-  color: #f9e9ee;
+  color: #FFFCFC;
 }
 
 .footer-info {
@@ -9419,7 +9423,7 @@ input::-moz-focus-inner {
     font-size: 10px;
 }
 .footer-support:hover p{
-   color: #C82506;
+   color: #D8CBCD;
 }
 .footer-copyright {
   font-weight: 300;
@@ -9500,7 +9504,7 @@ footer-support-link:hover {
   transition: color 0.3s ease;
 }
 .social-link:hover {
-  color: #9C2506;
+  color: #D8CBCD;
 }
 
 .social-engagement-wrapper {
