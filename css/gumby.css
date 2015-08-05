@@ -9285,7 +9285,12 @@ input::-moz-focus-inner {
 }
 
 .appstore-logo {
-	margin-top: 50px;
+    display: inline-block;
+    float: center;
+    padding-left: 1.04167%;
+    padding-right: 1.04167%;
+    display: inline-block;
+    text-align: center;
 }
 
 .testimonial-details {
